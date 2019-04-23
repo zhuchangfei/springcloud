@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mybaitsplus.dao.mapper.SysDeptRelationMapper">
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.SysDeptRelation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ancestor" jdbcType="INTEGER" property="ancestor" />
+    <id column="descendant" jdbcType="INTEGER" property="descendant" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.SysDeptRelation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ancestor" jdbcType="INTEGER" property="ancestor" />
+    <id column="descendant" jdbcType="INTEGER" property="descendant" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.SysDeptRelation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ancestor" jdbcType="INTEGER" property="ancestor" />
+    <id column="descendant" jdbcType="INTEGER" property="descendant" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.SysDeptRelation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ancestor" jdbcType="INTEGER" property="ancestor" />
+    <id column="descendant" jdbcType="INTEGER" property="descendant" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.SysDeptRelation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ancestor" jdbcType="INTEGER" property="ancestor" />
+    <id column="descendant" jdbcType="INTEGER" property="descendant" />
+  </resultMap>
+</mapper>

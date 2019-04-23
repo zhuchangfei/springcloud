@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mybaitsplus.dao.mapper.JobExecutionLogMapper">
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.JobExecutionLog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="job_name" jdbcType="VARCHAR" property="jobName" />
+    <result column="task_id" jdbcType="VARCHAR" property="taskId" />
+    <result column="hostname" jdbcType="VARCHAR" property="hostname" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="sharding_item" jdbcType="INTEGER" property="shardingItem" />
+    <result column="execution_source" jdbcType="VARCHAR" property="executionSource" />
+    <result column="failure_cause" jdbcType="VARCHAR" property="failureCause" />
+    <result column="is_success" jdbcType="INTEGER" property="isSuccess" />
+    <result column="start_time" jdbcType="TIMESTAMP" property="startTime" />
+    <result column="complete_time" jdbcType="TIMESTAMP" property="completeTime" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.JobExecutionLog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="job_name" jdbcType="VARCHAR" property="jobName" />
+    <result column="task_id" jdbcType="VARCHAR" property="taskId" />
+    <result column="hostname" jdbcType="VARCHAR" property="hostname" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="sharding_item" jdbcType="INTEGER" property="shardingItem" />
+    <result column="execution_source" jdbcType="VARCHAR" property="executionSource" />
+    <result column="failure_cause" jdbcType="VARCHAR" property="failureCause" />
+    <result column="is_success" jdbcType="INTEGER" property="isSuccess" />
+    <result column="start_time" jdbcType="TIMESTAMP" property="startTime" />
+    <result column="complete_time" jdbcType="TIMESTAMP" property="completeTime" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.JobExecutionLog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="job_name" jdbcType="VARCHAR" property="jobName" />
+    <result column="task_id" jdbcType="VARCHAR" property="taskId" />
+    <result column="hostname" jdbcType="VARCHAR" property="hostname" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="sharding_item" jdbcType="INTEGER" property="shardingItem" />
+    <result column="execution_source" jdbcType="VARCHAR" property="executionSource" />
+    <result column="failure_cause" jdbcType="VARCHAR" property="failureCause" />
+    <result column="is_success" jdbcType="INTEGER" property="isSuccess" />
+    <result column="start_time" jdbcType="TIMESTAMP" property="startTime" />
+    <result column="complete_time" jdbcType="TIMESTAMP" property="completeTime" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.JobExecutionLog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="job_name" jdbcType="VARCHAR" property="jobName" />
+    <result column="task_id" jdbcType="VARCHAR" property="taskId" />
+    <result column="hostname" jdbcType="VARCHAR" property="hostname" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="sharding_item" jdbcType="INTEGER" property="shardingItem" />
+    <result column="execution_source" jdbcType="VARCHAR" property="executionSource" />
+    <result column="failure_cause" jdbcType="VARCHAR" property="failureCause" />
+    <result column="is_success" jdbcType="INTEGER" property="isSuccess" />
+    <result column="start_time" jdbcType="TIMESTAMP" property="startTime" />
+    <result column="complete_time" jdbcType="TIMESTAMP" property="completeTime" />
+  </resultMap>
+  <resultMap id="BaseResultMap" type="com.example.mybaitsplus.dao.domain.JobExecutionLog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="job_name" jdbcType="VARCHAR" property="jobName" />
+    <result column="task_id" jdbcType="VARCHAR" property="taskId" />
+    <result column="hostname" jdbcType="VARCHAR" property="hostname" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="sharding_item" jdbcType="INTEGER" property="shardingItem" />
+    <result column="execution_source" jdbcType="VARCHAR" property="executionSource" />
+    <result column="failure_cause" jdbcType="VARCHAR" property="failureCause" />
+    <result column="is_success" jdbcType="INTEGER" property="isSuccess" />
+    <result column="start_time" jdbcType="TIMESTAMP" property="startTime" />
+    <result column="complete_time" jdbcType="TIMESTAMP" property="completeTime" />
+  </resultMap>
+</mapper>
